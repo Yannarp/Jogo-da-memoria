@@ -105,6 +105,15 @@ body {
   background-color: rgb(238, 215, 12);
   border: none;
   border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s linear;
+  
+}
+
+#start:hover{
+	background-color: #FFFFFF;
+	/*CSS 3*/
+	border-radius: 10px 0px 10px 0px;
 }
 
 #gameOver {
@@ -129,6 +138,13 @@ body {
   border: none;
   border-radius: 5px;
 }
+
+#restart:hover{
+	background-color: #FFFFFF;
+	/*CSS 3*/
+	border-radius: 10px 0px 10px 0px;
+}
+
 
 #gameBoard {
   max-width: 960px;

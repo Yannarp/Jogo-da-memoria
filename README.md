@@ -2,4 +2,6 @@
 
 <p>Esse é o repositório da aula de Javascript, na qual foi desenvolvido um jogo da memória com a temática das tecnologias aprendidas :pencil:</p>
 
-![tela foto](https://user-images.githubusercontent.com/81976280/162632831-54b8d0d2-71bf-4c40-93e9-096028cdf344.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81976280/162632831-54b8d0d2-71bf-4c40-93e9-096028cdf344.png" width="700px"/>
+</div>
